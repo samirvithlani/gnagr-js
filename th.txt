@@ -26,3 +26,9 @@ operators : operators are the special symbols that are used to perform some oper
 4)logical operators --> &&,||,!
 5)comparison operators --> ==,===,!=,!==,>,<,>=,<=
 
+
+decision making statements:
+if else
+switch case
+loops:
+
