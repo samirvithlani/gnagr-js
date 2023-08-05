@@ -32,3 +32,45 @@ if else
 switch case
 loops:
 
+
+logical operator:
+
+&& --> and
+|| --> or
+! --> not
+
+&& 
+
+T  T  --> T
+F  -  --> F
+T  F  --> F
+
+every condition must be true
+
+||
+T - --> T
+F T --> T
+F F --> F
+
+atleast one condition must be true
+
+functions :-
+function is a block of code which is used to perform a specific task
+
+reusability of code
+
+boiler plate code
+
+type of functions: 
+1)built in functions --> 
+2)user defined functions -->
+
+4 type 
+1) with arguments and with return type
+2) with arguments and without return type
+3) without arguments and with return type
+4) without arguments and without return type
+
+
+
+

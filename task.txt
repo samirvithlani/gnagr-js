@@ -9,3 +9,6 @@ if users's yearly salary is more than 200000 than he is eligible for credit card
 if users's yearly salary is more than 300000 than he is eligible for 2 wheeler loan
 if users's yearly salary is more than 500000 than he is eligible for 4 wheeler loan
 if users's yearly salary is more than 10lacks than he is eligible for home loan
+
+
+for loop 5  programmes...
