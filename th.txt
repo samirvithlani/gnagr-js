@@ -1,0 +1,28 @@
+DOM -->document object model --> HTML --> js is used to manupulate the DOM
+
+java script runs on the browser / clinet side
+
+staticly typed language --> java,c,c++ --> explicit type casting
+dynamicly typed language --> implicit type casting -> python,js
+
+java script engine -->
+net scape --> spider monkey --> firefox
+chrome --> v8 engine --> google
+safari --> webkit --> apple
+edge --> chakra --> microsoft
+
+window --> global object
+
+1)script tag --> HTML
+2) inline js
+3) external js file
+
+operators : operators are the special symbols that are used to perform some operations on the operands
+1)arithmetic operators --> +,-,*,/,%,++,--
+2)assignment operators --> =,+=,-=,*=,/=,%=
+   = :- it used to assign the value to the variable from right to left
+        
+3)bitwise operators --> &,|,^,~,<<,>>
+4)logical operators --> &&,||,!
+5)comparison operators --> ==,===,!=,!==,>,<,>=,<=
+
