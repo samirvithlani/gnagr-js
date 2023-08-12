@@ -71,6 +71,17 @@ type of functions:
 3) without arguments and with return type
 4) without arguments and without return type
 
+mutable: changeable
+immutable: unchangeable
+
+
+
+task:
+
+"hi this is brazil"
+
+'i'
+
 
 
 
