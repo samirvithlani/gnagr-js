@@ -82,6 +82,17 @@ task:
 
 'i'
 
+{
+   name =""
+   email
+   age
+   matks
+   phone
+}
+
+product 
+employee 
+
 
 
 
