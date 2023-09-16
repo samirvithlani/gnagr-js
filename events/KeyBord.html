@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="./KeyBord1.js"></script>
+  </head>
+  <body>
+    <div>
+      <input
+        id="name"
+        type="text"
+        placeholder="enter Name"
+        onkeyup="keyUpDemo()"
+      />
+      <p id="text"></p>
+      <p style="color: red" id="nameerr"></p>
+    </div>
+    <div>
+      <input id="age" type="number" placeholder="enter age" onkeyup="checkAge()"/>
+      <p id="ageerr"></p>
+    </div>
+    <div>
+        <input id ="fname" type="text" placeholder="enter F Name" onkeydown="getFName()"/>
+    </div>
+  </body>
+</html>
