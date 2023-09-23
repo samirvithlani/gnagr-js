@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="./formHandling.js"></script>
+</head>
+<body>
+    <form onsubmit="handleSubmit(event)">
+        <div>
+            <label>NAME:</label>
+            <input type="text" id="name"/>
+            <span id="nameError"></span>
+        </div>
+        <div>
+            <label>AGE:</label>
+            <input type="text" id="age">
+            <span id="ageError"></span>
+        </div>
+        <div>
+            <label>EMAIL:</label>
+            <input type="text" id="email">
+            <span id="emailError"></span>
+        </div>
+        
+        <div>
+            <input id="sub" type="submit" value="Submit" />
+        </div>
+    </form>
+    <table style="border-radius: 1;">
+            <th>
+                <tr>
+                    <td>NAME</td>
+                    <td>AGE</td>
+                    <td>EMAIL</td>
+                </tr>
+            </th>
+            <tbody>
+                <tr>
+                    <td id="nametd"></td>
+                    <td id="agetd"></td>
+                    <td id ="emailtd"></td>
+                </tr>
+            </tbody>
+    </table>
+</body>
+</html>
