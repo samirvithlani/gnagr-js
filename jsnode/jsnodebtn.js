@@ -26,6 +26,7 @@ var products =[
 
 function addToCart(product){
 
+    //array.... push(product)
     console.log("Add to cart",product);
 
     var cart = document.getElementById("cart");

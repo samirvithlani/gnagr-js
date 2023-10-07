@@ -17,3 +17,8 @@ for loop 5  programmes...
 
 clear interval and set interval in slide show every 3 seconds slide will change 
 and after 10 seconds slide show will stop
+
+
+
+07/08/2021
+slide show with set interval and clear interval 30 seconds interval slide show will change
