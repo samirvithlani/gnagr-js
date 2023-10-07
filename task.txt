@@ -12,3 +12,8 @@ if users's yearly salary is more than 10lacks than he is eligible for home loan
 
 
 for loop 5  programmes...
+
+///
+
+clear interval and set interval in slide show every 3 seconds slide will change 
+and after 10 seconds slide show will stop
