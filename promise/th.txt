@@ -1,0 +1,22 @@
+
+javascript is a asynchronous language, so it can do multiple things at the same time.
+
+line --> 1 hour data
+line2 -> ...  data process
+
+
+syncrozied: promise then async await
+
+
+server data ---> 5 min --->
+
+data proces... please wait.... 
+
+
+promise: 
+
+pending:
+fullfilled:
+reject:
+
+Promise class
