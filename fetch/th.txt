@@ -1,0 +1,19 @@
+API -> application programming interface....
+
+--->React,android,angular --> frontend frameworks : data base....
+
+backedn --> frontend [ API ]
+
+API -->fetch....
+
+form --> method POST,GET
+
+REQUEST method
+GET   :- data fetching...
+POST  : data create/ add /send
+PUT   :- data update
+DELETE :- data delete
+PATCH  :- data update / partial update
+
+
+dummy API -->
