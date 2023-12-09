@@ -11,8 +11,8 @@
 <body>
     <div class="container">
         <div class="weather__header">
-            <form class="weather__search">
-                <input type="text" placeholder="Search for a city..." class="weather__searchform">
+            <form class="weather__search" onsubmit="search(event)">
+                <input type="text" placeholder="Search for a city..." class="weather__searchform" id="city">
                 <i class="fa-solid fa-magnifying-glass"></i>
             </form> 
             <div class="weather__units">
@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="weather__body">
-            <h1 class="weather__city"></h1>
+            <h1 class="weather__city" id ="cityname"></h1>
             <div class="weather__datetime">
             </div>
             <div class="weather__forecast"></div>
