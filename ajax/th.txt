@@ -1,0 +1,2 @@
+ajax: full form :async javascript and xml. ajax. 
+ajax is a group of interrelated web development techniques used on the client-side to create asynchronous web applications. with ajax, web applications can send data to and retrieve from a server asynchronously (in the background) without interfering with the display and behavior of the existing page. data can be retrieved using the xmlhttprequest object. despite the name, the use of xml is not required (json is often used instead), and the requests do not need to be asynchronous.[1]
